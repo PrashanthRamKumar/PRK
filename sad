@@ -1,0 +1,19 @@
+var list=[
+{
+"moviename":"aruvi",
+"year":"2017",
+"rating":"5",
+"Language":"Tamil"
+},
+{
+"moviename":"vivegam",
+"year":"2017",
+"rating":"5",
+"Language":"Tamil"
+},
+{
+"moviename":"logan",
+"year":"2017",
+"rating":"5",
+"Language":"English"
+}]
